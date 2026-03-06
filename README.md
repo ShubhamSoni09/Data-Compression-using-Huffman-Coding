@@ -1,2 +1,2 @@
 # Data-Compression-using-Huffman-Coding
-In this project, data like Images and Text are compressed in size using Huffman algorithm in MATLAB.
+A MATLAB-based compression tool that applies the Huffman algorithm to reduce the size of both images and text files. Demonstrates how entropy-based encoding achieves efficient data compression by assigning shorter codes to frequently occurring symbols. A hands-on implementation of one of the most fundamental algorithms in data compression and information theory.
